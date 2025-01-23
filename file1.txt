@@ -12,5 +12,11 @@ Jenkins
 Description: An open-source automation server.
 Use Case: Building, testing, and deploying software projects.
 Pros: Highly customizable; supports plugins for various build tools.
+
+CircleCI
+---------
+Description: A cloud-based CI/CD service.
+Use Case: Automating builds and tests with simple YAML configurations.
+Pros: Easy to scale for teams.
 comment
 
