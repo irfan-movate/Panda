@@ -1,0 +1,10 @@
+#!/bin/bash
+
+<<comment 
+Azure DevOps Pipelines
+----------------------
+Description: CI/CD pipelines from Microsoft Azure.
+Use Case: Building and deploying applications to Azure or other platforms.
+Pros: Excellent integration with Azure services.
+comment
+
