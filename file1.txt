@@ -6,5 +6,11 @@ Azure DevOps Pipelines
 Description: CI/CD pipelines from Microsoft Azure.
 Use Case: Building and deploying applications to Azure or other platforms.
 Pros: Excellent integration with Azure services.
+
+Jenkins
+-------
+Description: An open-source automation server.
+Use Case: Building, testing, and deploying software projects.
+Pros: Highly customizable; supports plugins for various build tools.
 comment
 
