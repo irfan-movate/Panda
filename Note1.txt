@@ -4,6 +4,6 @@ Diff between git pull, git fetch, git merge?
 
 
 *********Git Pull = Git fetch + Git Merge********
-*************************************************
+
 
 
