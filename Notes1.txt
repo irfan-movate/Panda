@@ -7,10 +7,7 @@ any build tool (like Maven, Gradle, npm, etc.) as part of your CI/CD pipelines.
 It's a powerful and flexible way to handle builds directly in your GitHub repository.
 
 Pull command:
--------------
-Diff between git pull, git fetch, git merge?
-
-Push the Merged Changes: 
-----------------------------
-git push origin QA-branch
+----------------------
+---------------------------
+-----------------------------------
 comments
