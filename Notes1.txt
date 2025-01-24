@@ -1,0 +1,9 @@
+#!bin/bash
+<<comments
+imp Note:
+---------
+GitHub itself doesn’t include a build tool but GitHub Actions allows you to run and automate 
+any build tool (like Maven, Gradle, npm, etc.) as part of your CI/CD pipelines. 
+It's a powerful and flexible way to handle builds directly in your GitHub repository.
+
+comments
