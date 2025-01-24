@@ -1,0 +1,21 @@
+#!/bin/bash
+
+Diff between git pull, git fetch, git merge?
+
+Git PULL: if you pull the file, then the file get pull from central repo to your local repo,
+staging area and into working directory.
+ex: git pull origin dev-branch
+
+Git fetch: if you fetch the file, then the file get pull from central repo to your local repo. but it won't 
+pull into staging area nor into working directory.
+ex: git fetch or git fetch dev-branch
+check status: git log origin/dev-branch
+
+git Merge: Now if you want to get file from Local repo to working directory then need to use git merge.
+ex: git merge origin/dev-branch
+
+*********Git Pull = Git fetch + Git Merge********
+*************************************************
+
+Git status : To check status in staging area and working directory.
+Git log: Use to check changes in Local repo
