@@ -11,6 +11,6 @@ Pull command:
 Diff between git pull, git fetch, git merge?
 
 Push the Merged Changes: 
------------------------------
+----------------------------
 git push origin QA-branch
 comments
